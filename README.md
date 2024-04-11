@@ -1,6 +1,6 @@
 The project is about making a portal for a separate department(say CSE, we've done for our dept i.e, CSE). 
 
-The requisites include you should download the tcpdf file(you can download it directly from here https://github.com/tecnickcom/TCPDF) as a zip file, then unzip it and place it in a file called "tcpdf" in the folder where the other files has beeb stored.
+The requisites include you should download the tcpdf file(you can download it directly from here https://github.com/tecnickcom/TCPDF) as a zip file, then unzip it and place it in a file called "tcpdf" in the folder where the other files has been stored.
 
 You need to have a folder called "uploads" where you can place the excel sheets which gonna be uploaded in future use.
 
@@ -14,4 +14,4 @@ FEATURES:
 
 3.Faculty can upload the marks of the student and also the attendance.
 
-4.It provides an user-friendly environment, the faculty can update the attendance and the marks as as excel sheet.
+4.It provides an user-friendly environment, the faculty can update the attendance and the marks as an excel sheet.
